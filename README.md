@@ -1,5 +1,5 @@
-# Course Page for Modern Image Search at Super AI Development Program SS4
-by Romrawin Chumpu (Jin) 
+# Course Page: Modern Image Search for Super AI Development Program SS4
+by Romrawin Chumpu (Jin) - Super AI SS1
 
 Hello everyone! Welcome to the short course on image search. This repository is a collection of codes, demos, and examples throughout the course. Feel free to download anything you find useful here. 
 
