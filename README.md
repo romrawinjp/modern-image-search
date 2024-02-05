@@ -27,4 +27,4 @@ Hello everyone! Welcome to the short course on image search. This repository is 
 
 [Download here](/romrawin_modern-image-search.pdf)
 
-**Note For Slide** - If anyone finds my slide beneficial, please make full use of it. I don't mind; I enjoy drawing these again and over, but please don't sell them. 
+**Note For Slide** - If anyone finds my slide beneficial, feel free to make full use of it. I don't mind; I enjoy drawing these again and over, and please don't sell them. 
